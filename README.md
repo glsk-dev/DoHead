@@ -1,6 +1,6 @@
 <img src="https://github.com/glsk-dev/DoHead/blob/main/logo.png" style="width:150px; height:auto;">
 
-# DoHead (v1.1b) – Editor
+# DoHead (v1.2) – Editor
 
 > Editor rápido y automático para generar rápidamente **cabezas "arregladas" y custom de Minecraft**.
 
